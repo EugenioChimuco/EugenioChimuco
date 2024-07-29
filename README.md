@@ -2,11 +2,6 @@
 <h3>About me</h3>
 <p align="center"> 
   Hi, I'm Eugénio Chimuco. I'm a dedicated back-end developer with a focus on building efficient and scalable RESTful APIs and web applications using C# ASP.NET and React. With a passion for problem-solving and a collaborative mindset, I thrive in environments where I can both lead and contribute to dynamic teams, always striving to deliver high-quality solutions.</p>&nbsp;
- 
- &nbsp;
- &nbsp;
-
-
 
 ## My Skills
 
@@ -20,14 +15,11 @@
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 
 #### Studying in this moment:
 
 ![GCP](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-
 
 #### Databases:
 
@@ -45,10 +37,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)&nbsp;
 ![Metasploite](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)&nbsp;
 
-
 &nbsp;
-&nbsp;
-
 ## Contacts:
 
 <div> 
@@ -57,9 +46,8 @@
 <a href = "mailto:chimuco007@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eugeniochimuco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
-
  
-</div>&nbsp;&nbsp;
+</div>
  
 
 
